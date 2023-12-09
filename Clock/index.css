@@ -1,0 +1,20 @@
+*{
+    padding:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+body{
+    background-color:yellow;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.clock{
+   color:#20c20e;
+   font-size:100px;
+   letter-spacing:7px;
+}
